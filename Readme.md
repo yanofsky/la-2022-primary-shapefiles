@@ -12,7 +12,7 @@ To create the files yourself, run the `create-shapefiles.ipynb` Jupyter notebook
 
 ## Merging election results with the geodata
 
-This repo does not contain the election results. But if you run `create-shapefiles.ipynb` it will download the data and create geojson files that include the election results as properties of each precinct.
+This repo does not contain the election results. But if you run `create-shapefiles.ipynb` it will download the data and create geojson files that include the election results as properties of each precinct. Those files will be saved into a new folder `geojson-by-race-with-results`
 
 ## Where to get LA County election precinct shapefiles
 
