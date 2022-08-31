@@ -6,9 +6,9 @@ The files are in the `geojson-by-race` directory.
 
 ## Creating the files yourself
 
-To create the files yourself, run the `create-shapefiles.ipynb` Jupyter notebook. It requires Python 3.7, pandas, geopandas, fiona, and requests. So:
+To create the files yourself, run the `create-shapefiles.ipynb` Jupyter notebook. It requires Python 3.7, pandas, geopandas, fiona, requests and xlrd. So:
 
-`pip install pandas geopandas fiona requests`
+`pip install pandas geopandas fiona requests xlrd`
 
 ## Merging election results with the geodata
 
